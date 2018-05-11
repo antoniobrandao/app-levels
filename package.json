@@ -1,0 +1,14 @@
+{
+  "name":"app-levels",
+  "version":"1.0.0",
+  "description":"Solve your z-index: 999 problems: JavaScript zIndex defaults.",
+  "main":"index.js",
+  "keywords":["z-index","app","levels","defaults"],
+  "license":"MIT",
+  "author":"Antonio Brandao <> (http://github.com/antoniobrandao)",
+  "homepage":"https://github.com/http://github.com/antoniobrandao/app-levels",
+  "repository":{"type":"git","url":"https://github.com/http://github.com/antoniobrandao/app-levels"},
+  "bugs": {
+    "url":"https://github.com/http://github.com/antoniobrandao/app-levels/issues"
+  }
+}
