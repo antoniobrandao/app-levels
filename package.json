@@ -1,6 +1,6 @@
 {
   "name":"app-levels",
-  "version":"1.0.0",
+  "version":"1.0.1",
   "description":"Solve your z-index: 999 problems: JavaScript zIndex defaults.",
   "main":"index.js",
   "keywords":["z-index","app","levels","defaults"],
