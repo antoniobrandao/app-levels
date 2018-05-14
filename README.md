@@ -1,6 +1,6 @@
 # app-levels
 
-Solve your z-index: 999 problems. A set of zIndex defaults.
+Solve your z-index: 999 problems: A set of zIndex defaults.
 
 ## Install
 
@@ -32,14 +32,14 @@ In SASS
 
 ## Available levels:
 
-LEVEL_SUPPORT_OVERLAY: 60
-LEVEL_ALERT: 50
-LEVEL_POPUP: 40
-LEVEL_NAV_MOBILE: 30
-LEVEL_NAV: 20
-LEVEL_OVERLAYS: 10
-LEVEL_BASE: 0
-LEVEL_BACKGROUND: -10
+    LEVEL_SUPPORT_OVERLAY: 60
+    LEVEL_ALERT: 50
+    LEVEL_POPUP: 40
+    LEVEL_NAV_MOBILE: 30
+    LEVEL_NAV: 20
+    LEVEL_OVERLAYS: 10
+    LEVEL_BASE: 0
+    LEVEL_BACKGROUND: -10
 
 
 ## License
